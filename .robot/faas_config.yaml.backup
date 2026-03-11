@@ -1,0 +1,16 @@
+version: '1.0'
+app:
+  appName: aviation-report-web-tcyktn
+  appNameCn: aviation-report-web-tcyktn
+  appId: 14370
+  functionId: lfc-gucvphhj
+  tenantId: ryvqur
+  tenantName: 间接采购
+deployment:
+  runtime: static
+  listenPort: 8080
+history:
+- timestamp: '2026-03-11T09:35:53.557856Z'
+  version: v1
+  status: success
+  url: https://lfc-gucvphhj.cnhb01-dev.fc.chj.cloud
